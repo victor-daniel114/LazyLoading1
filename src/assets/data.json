@@ -1,0 +1,24 @@
+[
+            {
+            "productid": "001",
+            "productslist": "Bizdynamics",
+            "releasenotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "updatedby": "Ramesh",
+            "viewurl": "www.dummyurl.com",
+            "downloadurl": "www.dummyurl.com",
+            "version": "4.3.2"
+        
+            
+        },
+        {
+            "productid": "002",
+            "productslist": "Bizdynamics",
+            "releasenotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+            "updatedby": "Ramesh",
+            "viewurl": "www.dummyurl.com",
+            "downloadurl": "www.dummyurl.com",
+            "version": "4.3.2"
+        
+        }
+    ]
+    
