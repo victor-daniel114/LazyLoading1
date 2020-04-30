@@ -25,7 +25,7 @@
     "bootstrap": "^4.3.1",
     "ngx-bootstrap": "^4.3.0",
     "core-js": "^2.5.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "ngx-malihu-scrollbar": "^7.0.0",
     "ngx-toastr": "^10.0.2",
     "rxjs": "~6.3.3",
